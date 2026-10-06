@@ -35,8 +35,8 @@ Whether you are looking for enterprise-grade managed commercial solutions (such 
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-- [📊 Star History](#-star-history)
 - [🤝 Support & Sponsorship](#-support--sponsorship)
+- [📊 Star History](#-star-history)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 ---
@@ -119,19 +119,19 @@ Contributions are warmly welcome! Follow these steps to submit new image buildin
 
 ---
 
-## 📊 Star History 📈
-
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Automated-Machine-Image-Building&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Automated-Machine-Image-Building&type=date&legend=top-left)
-
----
-
 ## 🤝 Support & Sponsorship 💖
 
-If you find this automated machine image building repository useful, please consider supporting the project:
+Thank you for exploring and contributing to our open-source machine image building ecosystem! If you find this repository valuable for your cloud infrastructure pipelines, please consider supporting our work:
 
 - ⭐ **Star** this repository to increase community visibility!
 - 🔀 **Fork** and share with fellow DevOps engineers, SREs, and platform architecture teams.
-- ☕ **Sponsor & Support**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/ishandutta2007).
+- ☕ **Buy Me a Coffee**: Support ongoing open-source curation and developer tools via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📊 Star History 📈
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Automated-Machine-Image-Building&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Automated-Machine-Image-Building&type=date&legend=top-left)
 
 ---
 
