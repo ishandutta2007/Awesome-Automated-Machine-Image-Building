@@ -65,7 +65,7 @@ The machine image building market is split between hyperscaler-native services (
 
 ## 🔓 Open-Source GitHub Projects 🌟
 
-*Sorted by GitHub Star Count (Descending)* 📊
+*Sorted by GitHub Stars_Count (Descending)* 📊
 
 - **[systemd/systemd](https://github.com/systemd/systemd)** [![Stars](https://img.shields.io/github/stars/systemd/systemd?style=social&color=white)](https://github.com/systemd/systemd/stargazers)  
   **The core system and service manager for Linux**, GPL-2.0 licensed. ⭐ **16,783 stars**. Includes `systemd-firstboot`, `systemd-repart`, and `systemd-nspawn` for provisioning immutable OS image trees and container images from declarative blueprints. ⚙️
@@ -114,7 +114,7 @@ Contributions are warmly welcome! Follow these steps to submit new image buildin
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure, emojis, and exact formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star badges linking to `/stargazers`, license, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Badges linking to `/stargazers`, license, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
